@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 390" role="img" aria-label="Mini und Max, ein fröhlicher gelber Hund und ein grüner Frosch">
+<defs><linearGradient id="fur" x2=".9" y2="1"><stop stop-color="#ffe06b"/><stop offset="1" stop-color="#ecaf29"/></linearGradient><linearGradient id="frog" x2=".9" y2="1"><stop stop-color="#8ce66a"/><stop offset="1" stop-color="#39b955"/></linearGradient></defs>
+<ellipse cx="256" cy="366" rx="220" ry="13" fill="#547591" opacity=".16"/>
+<g stroke="#7d4d1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+<path d="M110 260C49 216 21 282 59 315C25 321 18 362 65 357C116 348 128 291 110 260Z" fill="url(#fur)"/>
+<ellipse cx="213" cy="263" rx="134" ry="102" fill="url(#fur)"/>
+<path d="M130 305C116 344 126 363 163 364H202C227 353 213 332 192 326Z" fill="#edb63a"/>
+<path d="M250 310C236 344 250 361 281 364H324C340 345 309 326 287 325Z" fill="#edb63a"/>
+<path d="M127 135C82 94 37 122 47 183C50 232 101 230 130 188Z" fill="#dca43a"/>
+<path d="M174 110C170 75 192 54 205 82C217 43 238 43 247 81C275 46 287 77 275 104" fill="#f7c843"/>
+<ellipse cx="211" cy="158" rx="119" ry="100" fill="url(#fur)"/>
+<path d="M259 140C295 121 316 146 315 178C313 210 277 233 241 230" fill="#f7c843"/>
+<ellipse cx="156" cy="148" rx="22" ry="31" fill="white"/><ellipse cx="226" cy="143" rx="24" ry="32" fill="white"/>
+<ellipse cx="160" cy="153" rx="9" ry="14" fill="#242e2a" stroke="none"/><ellipse cx="224" cy="146" rx="9" ry="14" fill="#242e2a" stroke="none"/>
+<ellipse cx="134" cy="199" rx="72" ry="50" fill="#f3bf45"/><ellipse cx="88" cy="180" rx="36" ry="24" fill="#8b5b2a"/>
+<path d="M158 211Q211 270 267 213Q224 251 174 225Z" fill="#5c2b20" stroke="#5c2b20"/>
+<path d="M196 239Q214 229 230 236" fill="none" stroke="#ee7583" stroke-width="11"/>
+</g>
+<g stroke="#237b32" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+<ellipse cx="391" cy="264" rx="65" ry="86" fill="url(#frog)"/>
+<path d="M344 309Q309 340 317 365Q337 380 374 354" fill="#5ac95b"/>
+<path d="M416 311Q448 340 469 352Q493 371 467 372L418 358" fill="#5ac95b"/>
+<path d="M444 256Q483 231 486 198" fill="none" stroke-width="15"/>
+<circle cx="488" cy="190" r="17" fill="#66d561"/>
+<circle cx="486" cy="177" r="7" fill="#66d561"/><circle cx="503" cy="185" r="7" fill="#66d561"/>
+<path d="M350 258Q313 227 305 201" fill="none" stroke-width="15"/>
+<ellipse cx="387" cy="166" rx="83" ry="65" fill="url(#frog)"/>
+<circle cx="345" cy="113" r="29" fill="#64cf58"/><circle cx="425" cy="109" r="29" fill="#64cf58"/>
+<ellipse cx="348" cy="112" rx="18" ry="20" fill="white" stroke="none"/><ellipse cx="425" cy="109" rx="18" ry="20" fill="white" stroke="none"/>
+<circle cx="355" cy="113" r="8" fill="#172c28" stroke="none"/><circle cx="420" cy="108" r="8" fill="#172c28" stroke="none"/>
+<path d="M346 178Q386 223 435 176" fill="none"/>
+<ellipse cx="392" cy="274" rx="32" ry="48" fill="#a9e578" stroke="none"/>
+</g></svg>
