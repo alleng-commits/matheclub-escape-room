@@ -19,3 +19,9 @@ Mini und Max müssen aus einem Zahlenschloss befreit werden. Vier Rechenräume (
 **Wichtig:** Die älteren PDF-Dateien im Repository können frühere Stände enthalten. Nutze stattdessen die **Druckansichten der aktuellen Webseite**. Das separat bereitgestellte neue Gesamtpaket enthält alle 48 Arbeitsblattfassungen (Hilfe/Knobel), 24 Lösungsblätter, vier Merken-Seiten, vier Gelingenachweise, vier Urkunden, Laufzettel und Lehrkraftplan. Für PDFs, die exakt den neuen Stand abbilden, bitte dieses Paket verwenden.
 
 Die Bildvorlage Mini und Max wurde vom Nutzer für das Projekt bereitgestellt und ist in den neuen PDFs enthalten. Auf der GitHub-Webseite erscheint derzeit eine vereinfachte Zeichnung der zwei Figuren.
+
+## Zusatzaufgaben (AB 2 und AB 3)
+
+- [Geheime Denkerkammer](https://alleng-commits.github.io/matheclub-escape-room/zusatzaufgaben.html) mit fünf digitalen Denk-, Begründungs- und Transferaufgaben sowie Druckansicht.
+- Die Zusatzaufgaben sind freiwillig und verändern die vier regulären Gelingenachweise und Zahlencodes nicht.
+- Die Startseite zeigt ein farbiges Zahlenschloss mit vier Türen und Mini und Max.
